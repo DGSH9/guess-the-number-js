@@ -1,3 +1,7 @@
+main {
+    margin-top: 20px;
+}
+
 .header1 {
     display: flex;
     justify-content: center;
@@ -56,4 +60,18 @@
     width: 30%;
     border-radius: 1rem;
     background-color: lightblue;
+}
+
+#nav1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#nav1 a {
+    color: aqua;
+    font-size: 50px;
+    font-weight: 1000;
+
 }
