@@ -18,6 +18,19 @@
     justify-content: center;
 }
 
+.history1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.history1 div {
+    width: 40%;
+    margin: 10px;
+    text-align: center;
+    font-style: italic;
+}
+
 .result-final {
     display: flex;
     justify-content: center;
